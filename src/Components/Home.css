@@ -1,0 +1,43 @@
+.bg1{
+    background-image: url("http://localhost:3000/images/bg5.jpg");
+    height: 105vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ }
+.form1{
+    /* background-color:whitesmoke;
+   */
+    opacity: 0.9;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    position: relative ;
+    top: 5px
+    
+    
+}
+
+
+
+.findhotel{
+    position: relative;
+    top: 10px;
+}
+
+.heading h1{
+    text-align: center;
+    color:white;
+    font-weight: bolder;
+    padding-top: 60px;
+
+
+}
+
+
+.card1{
+    position: relative;
+    top: 75px;
+
+}

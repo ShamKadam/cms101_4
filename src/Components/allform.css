@@ -1,0 +1,29 @@
+.b{
+    
+    border-style:solid;
+    background-color:khaki;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.bg{
+    background-image: url("http://localhost:3000/images/loginbg.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+
+#Book{
+    position: relative;
+    
+  padding-left: 35px;
+  padding-right: 35px;
+  border-width: 2px; box-shadow: 2px 5px 4px 5px #888888;
+ 
+}

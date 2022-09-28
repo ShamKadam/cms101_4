@@ -1,0 +1,23 @@
+.ul
+{
+    list-style-type: none;
+}
+.main-footer{
+    
+    background-color: black;
+    color: whitesmoke;
+    position: sticky;
+    bottom:0;
+   
+  
+}
+
+.bi{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    position: relative;
+    right: 30px;
+    padding-left: 20px;
+
+}

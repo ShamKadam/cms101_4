@@ -1,0 +1,28 @@
+.Intro{
+    background-color:brown;
+    ;
+    color:#edf5e1;
+    text-align: justify;
+    
+    
+}
+.logo{
+    margin-bottom: 75px;
+   /* position:relative;
+   left: 630px; */
+    
+}
+h2{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.introcontent{
+  text-align: center;
+  padding-bottom: 120px;
+  
+}
+
+.introcontent p{
+    font-size: 22px;
+}

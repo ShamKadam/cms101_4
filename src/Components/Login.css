@@ -1,0 +1,67 @@
+.logbg{
+  
+    width: 450px;
+    height: 450px;
+    margin-left: 500px;
+    background: #ffffff;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    padding: 40px 55px 45px 55px;
+    border-radius: 15px;
+    transition: all .3s;
+}
+.modal-form-group{
+    margin-top: 25px;
+    margin-bottom: 15px;
+    position: relative;
+  }
+.forgot-link{
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 12px;
+    position: relative;
+    bottom: -5px;
+    float: right;
+  }
+.btn{
+    color: #fff;
+    background-color: #266edb;
+    width: 100%;
+    text-shadow: none;
+}
+  .bg section{
+    padding: 20px 30px 30px 30px;
+    
+  }
+
+  .bg2{
+    background-image: url("http://localhost:3000/images/bg6.JPG");
+    background-repeat: no-repeat;
+   background-size: cover;
+    height: 70%;
+    padding: 20px;
+  }
+.tab-group{
+    list-style:none;
+    padding:0;
+    margin:0 0 40px 0;
+}
+.tab-group li a{
+    display:block;
+    text-decoration:none;
+    padding:10px;
+    background:white;
+    font-size:15px;
+    float:left;
+    width:50%;
+    text-align:center;
+    cursor:pointer;
+    transition:.5s ease;
+}
+.tab-group li a:hover{
+    background:rgb(212, 212, 212);
+    color:black;
+}
+
+.cf{
+  padding-top: 30px;
+}
